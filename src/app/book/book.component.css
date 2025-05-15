@@ -1,0 +1,16 @@
+
+.body {
+  background-color: rgb(162, 188, 32);
+}
+.book {
+  background-color: blueviolet;
+    border: 20px solid #3d0ec1;
+    padding: 30px;
+    margin: 30px;
+    border-radius: 30px;
+    max-width: 500px;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+  }
